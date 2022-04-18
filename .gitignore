@@ -38,4 +38,6 @@ Makefile.dep
 .ccls-cache/*
 compile_commands.json
 redis.code-workspace
-cmake-build-debug
+cmake-build-debug*
+src/*.dll
+src/*.exe
